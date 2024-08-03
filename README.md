@@ -2,8 +2,7 @@
 
 ## Description
 
-This a basic A\* path finding algorithm visualizer made using PyGame.
-You can draw walls and then see the algorithm find the shortest path from the start to the end.
+A basic simulation and game of the Monty Hall Problem.
 
 ## Table of Contents
 
